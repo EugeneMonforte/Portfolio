@@ -10,7 +10,7 @@
 - Analyzed Population Growth from Years 1790 to 1980 to predict 2020 US Population
 - Used Quadratic Regression with an Indicator Variable
 - Accurately Predicted 2020 population with less than 1% percent error 
-- [View Report (PDF)](link-to-your-pdf) | [Code on GitHub](link-to-code)
+- [View Report (PDF)]([link-to-your-pdf](https://github.com/EugeneMonforte/Portfolio/blob/main/5900%20Individual%20Project.pdf)) | [Code on GitHub](link-to-code)
 
 ### 📁 Assessment of the Stretch Composition Program
 - Evaluation of multi-quarter English Composiiton program, assessing the effectiveness of the 1-, 2-, and 2-quarter course sequences using progran data and student outcomes
@@ -26,7 +26,7 @@ etc.), to t-test, chi-square testing and parametric and nonparametric method
 ### 📁 Survey Data Analysis
 - Analysis of survey data related to student campus life at a state university, with emphasis on statistical techniques used to interpret student experiences and behaviors. 
 - Methods Chi Squared Test, Goodness of Fit Test, the Chi Squared Test of Independence and Z-Tests
--  [Read More](link
+-  [Read More](link)
 
 ---
 
