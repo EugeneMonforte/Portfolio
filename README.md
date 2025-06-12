@@ -16,17 +16,17 @@
 - Evaluation of multi-quarter English Composiiton program, assessing the effectiveness of the 1-, 2-, and 2-quarter course sequences using progran data and student outcomes
 - Methods stated would range from a variety of ANOVA techniques (one-way, two-way, repeated measure,
 etc.), to t-test, chi-square testing and parametric and nonparametric method
-- [Read More](https://github.com/EugeneMonforte/Portfolio/blob/main/StretchComposition.pdf)
+- [View Report (PDF)](https://github.com/EugeneMonforte/Portfolio/blob/main/StretchComposition.pdf)
 
 ### 📁 Textile Dye
 - Exploration of sustainable solutions in the agricultural sector through the repurposing of almond waste; investigated the use of almond extracts as functional textile dyes for apparel applications.
 - Methods for the 3-way factorial design include parametric testing for ANOVA, and nonparametric testing using ART ANOVA.
--  [Read More](https://github.com/EugeneMonforte/Portfolio/blob/main/TextileDye.pdf)
+-  [View Report (PDF)](https://github.com/EugeneMonforte/Portfolio/blob/main/TextileDye.pdf)
 
 ### 📁 Survey Data Analysis
 - Analysis of survey data related to student campus life at a state university, with emphasis on statistical techniques used to interpret student experiences and behaviors. 
 - Methods Chi Squared Test, Goodness of Fit Test, the Chi Squared Test of Independence and Z-Tests
--  [Read More]((https://github.com/EugeneMonforte/Portfolio/blob/main/SurveyData.pdf))
+-  [View Report (PDF)](https://github.com/EugeneMonforte/Portfolio/blob/main/SurveyData.pdf)
 
 ---
 
