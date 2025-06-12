@@ -13,6 +13,15 @@
 - Applied generalized additive mixed models (GAMMs) to country wide data on golden and bald eagle use, habitat characteristics, and weather covariates
 - [View Report (PDF)](https://github.com/EugeneMonforte/Portfolio/blob/main/REU_Paper.pdf) | [View Poster (PDF)](https://github.com/EugeneMonforte/Portfolio/blob/main/Eagles%20Poster.pptx.pdf)
 
+### 🦅 Bald Eagle Prediction
+
+![Bald Eagle Predictions](images/BaldEaglesPredictions.png)
+
+### 🦅 Golden Eagle Prediction
+
+![Golden Eagle Predictions](images/GoldenEaglePredictions.png)
+
+
 ### 📁 Prediction of US Population Growth
 - Analyzed Population Growth from Years 1790 to 1980 to predict 2020 US Population
 - Used Quadratic Regression with an Indicator Variable
