@@ -6,6 +6,13 @@
 
 ## 🔬 Projects
 
+### 📁 Regression methods for constructing species distribution models for eagle-use in the continental United States
+- Co-wrote a government report for the U.S. Fish and Wildlife Service detailing the results of the species distribution model developed during the REU that will be used to inform U.S. policy regarding the permitted take of eagles at terrestrial wind farms within the country
+- Collaborated with government employees at the U.S. Fish and Wildlife Service to define the research question, obtain data and ensure the results would be relevant for integration with U.S. policy regarding the take of eagles at terrestrial wind facilities
+- Gave an oral presentation of the species distribution model to collaborators in the U.S. Fish and Wildlife Service, highlighting how the results might be used to inform government policy
+- Applied generalized additive mixed models (GAMMs) to country wide data on golden and bald eagle use, habitat characteristics, and weather covariates
+- [View Report (PDF)](https://github.com/EugeneMonforte/Portfolio/blob/main/REU_Paper.pdf) | [View Poster (PDF)] (https://github.com/EugeneMonforte/Portfolio/blob/main/Eagles%20Poster.pptx.pdf)
+
 ### 📁 Prediction of US Population Growth
 - Analyzed Population Growth from Years 1790 to 1980 to predict 2020 US Population
 - Used Quadratic Regression with an Indicator Variable
@@ -25,9 +32,13 @@ etc.), to t-test, chi-square testing and parametric and nonparametric method
 
 ### 📁 Survey Data Analysis
 - Analysis of survey data related to student campus life at a state university, with emphasis on statistical techniques used to interpret student experiences and behaviors. 
-- Methods Chi Squared Test, Goodness of Fit Test, the Chi Squared Test of Independence and Z-Tests
+- Methods: Chi Squared Test, Goodness of Fit Test, the Chi Squared Test of Independence and Z-Tests
 -  [View Report (PDF)](https://github.com/EugeneMonforte/Portfolio/blob/main/SurveyData.pdf)
 
+### 📁 Weather Forecast Dataset
+- Exploring what weather factors have the biggest impact on the outcome of rain
+- Methods:  Logistic Regression, Wald Test, Odds Ratio and Confidence Intervals for Odds Ratio
+-  [View Report (PDF)](https://github.com/EugeneMonforte/Portfolio/blob/main/4700_Weather%20(4).pdf)
 ---
 
 ## 🎓 Education
