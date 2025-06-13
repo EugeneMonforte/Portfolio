@@ -1,5 +1,20 @@
 # Eugene Monforte
 
+<table>
+<tr>
+<td width="160">
+  <img src="images/IMG_4022.JPG.jpg" width="150" style="border-radius: 50%">
+</td>
+<td>
+  <h1>Eugene Monforte</h1>
+  <p><strong>Statistics Master's Student</strong><br>
+  Cal Poly Pomona</p>
+  <p><a href="https://github.com/EugeneMonforte/Portfolio">View Portfolio on GitHub</a></p>
+</td>
+</tr>
+</table>
+
+
 📊 Statistician | 📈 Data Analyst | 🎓 Master’s Student at Cal Poly Pomona
 
 ---
