@@ -1,4 +1,4 @@
-<img src="images/IMG_4022.JPG" width="150" align="left" style="margin-right: 20px; border-radius: 10%; border: 1px solid #ccc;">
+
 
 <!-- 
 <table style="width:100%; border: none;">
