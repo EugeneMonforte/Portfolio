@@ -1,5 +1,22 @@
-# Eugene Monforte
+<table style="width:100%; border: none;">
+<tr>
+<td style="width: 160px; vertical-align: top;">
+  <img src="images/IMG_4022.JPG" width="140" style="border-radius: 10%; border: 2px solid #ddd;">
+</td>
+<td style="padding-left: 20px; vertical-align: middle;">
+  <h1 style="margin-bottom: 5px;">Eugene Monforte</h1>
+  <p style="margin: 0;"><strong>Statistics Master's Student</strong></p>
+  <p style="margin: 0;">Cal Poly Pomona</p>
+  <p style="margin: 8px 0;"><a href="https://github.com/EugeneMonforte/Portfolio">View Portfolio on GitHub</a></p>
+  <p style="font-size: 14px;">📊 Statistician | 📈 Data Analyst | 🎓 Master's Student at Cal Poly Pomona</p>
+</td>
+</tr>
+</table>
 
+<hr>
+
+
+<!-- 
 <table>
 <tr>
 <td width="160">
@@ -13,7 +30,7 @@
 </td>
 </tr>
 </table>
-
+-->
 
 📊 Statistician | 📈 Data Analyst | 🎓 Master’s Student at Cal Poly Pomona
 
