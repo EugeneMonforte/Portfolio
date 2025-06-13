@@ -1,3 +1,4 @@
+<!-- 
 <table style="width:100%; border: none;">
 <tr>
 <td style="width: 160px; vertical-align: top;">
@@ -14,9 +15,9 @@
 </table>
 
 <hr>
+-->
 
 
-<!-- 
 <table>
 <tr>
 <td width="160">
@@ -30,7 +31,7 @@
 </td>
 </tr>
 </table>
--->
+
 
 📊 Statistician | 📈 Data Analyst | 🎓 Master’s Student at Cal Poly Pomona
 
