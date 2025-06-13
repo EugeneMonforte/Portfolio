@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td width="160">
-  <img src="images/IMG_4022.JPG.jpg" width="150" style="border-radius: 50%">
+  <img src="images/IMG_4022.JPG" width="150" style="border-radius: 50%">
 </td>
 <td>
   <h1>Eugene Monforte</h1>
