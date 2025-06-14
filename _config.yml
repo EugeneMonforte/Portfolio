@@ -4,11 +4,3 @@ description: Statistics Master's Student at Cal Poly Pomona
 theme: jekyll-theme-minimal
 show_downloads: false
 
-sass:
-  style: compressed
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      css: /assets/css/style.css
