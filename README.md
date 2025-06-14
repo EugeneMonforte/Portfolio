@@ -64,7 +64,7 @@
 - [View Report (PDF)](https://github.com/EugeneMonforte/Portfolio/blob/main/5900%20Individual%20Project.pdf) 
 
 ### 📁 Assessment of the Stretch Composition Program
-- Evaluation of multi-quarter English Composiiton program, assessing the effectiveness of the 1-, 2-, and 2-quarter course sequences using progran data and student outcomes
+- Evaluation of multi-quarter English Composiiton program, assessing the effectiveness of the 1-, 2-, and 3-quarter course sequences using program data and student outcomes
 - Methods stated would range from a variety of ANOVA techniques (one-way, two-way, repeated measure,
 etc.), to t-test, chi-square testing and parametric and nonparametric method
 - [View Report (PDF)](https://github.com/EugeneMonforte/Portfolio/blob/main/StretchComposition.pdf)
@@ -79,15 +79,17 @@ etc.), to t-test, chi-square testing and parametric and nonparametric method
 - Methods: Chi Squared Test, Goodness of Fit Test, the Chi Squared Test of Independence and Z-Tests
 -  [View Report (PDF)](https://github.com/EugeneMonforte/Portfolio/blob/main/SurveyData.pdf)
 
-### 📁 Weather Forecast Dataset
-- Exploring what weather factors have the biggest impact on the outcome of rain
-- Methods:  Logistic Regression, Wald Test, Odds Ratio and Confidence Intervals for Odds Ratio
--  [View Report (PDF)](https://github.com/EugeneMonforte/Portfolio/blob/main/4700_Weather%20(4).pdf)
+### 📂 Weather Forecast Dataset
+- Exploring what weather factors have the biggest impact on the outcome of rain  
+- Methods: Logistic Regression, Wald Test, Odds Ratio and Confidence Intervals for Odds Ratio  
+- [View Report (PDF)](https://eugenemonforte.github.io/Portfolio/4700_Weather%20(4).pdf)
+
+
 ---
 
 ## 🎓 Education
 **M.S. in Statistics**, Cal Poly Pomona  
-(Expected Graduation: 2026)
+(Expected Graduation: 2026)  
 **B.S. in Applied Mathematics**, Cal Poly Pomona  
 (Graduated: 2024)
 ---
