@@ -82,6 +82,18 @@ etc.), to t-test, chi-square testing and parametric and nonparametric method
 - Methods for the 3-way factorial design include parametric testing for ANOVA, and nonparametric testing using ART ANOVA.
 -  [View Report (PDF)](https://github.com/EugeneMonforte/Portfolio/blob/main/TextileDye.pdf)
 
+### 3-Way Interactions of Time, Temperature and pH
+
+![3-Way Interactions of Time, Temperature and pH](images/Textile1.png)
+
+### Nonparametric ART ANOVA Summary Output
+
+![Nonparametric ART ANOVA Summary Output](images/Textile2.png)
+
+### ART Contrast Results for Temperature and pH Interaction
+
+![ART Contrast Results for Temperature and pH Interaction](images/Textile3.png)
+
 ### 📁 Survey Data Analysis
 - Analysis of survey data related to student campus life at a state university, with emphasis on statistical techniques used to interpret student experiences and behaviors. 
 - Methods: Chi Squared Test, Goodness of Fit Test, the Chi Squared Test of Independence and Z-Tests
