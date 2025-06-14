@@ -63,6 +63,14 @@
 - Accurately Predicted 2020 population with less than 1% percent error 
 - [View Report (PDF)](https://github.com/EugeneMonforte/Portfolio/blob/main/5900%20Individual%20Project.pdf) 
 
+### Fit of Model
+
+![Fit of Model](images/Population1.png)
+
+### Model Comparisons
+
+![Model Comparisons](images/Population2.png)
+
 ### 📁 Assessment of the Stretch Composition Program
 - Evaluation of multi-quarter English Composiiton program, assessing the effectiveness of the 1-, 2-, and 3-quarter course sequences using program data and student outcomes
 - Methods stated would range from a variety of ANOVA techniques (one-way, two-way, repeated measure,
