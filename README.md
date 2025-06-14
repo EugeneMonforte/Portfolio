@@ -90,7 +90,7 @@ etc.), to t-test, chi-square testing and parametric and nonparametric method
 
 ![Nonparametric ART ANOVA Summary Output](images/Textile1.png)
 
-### ART Contrast Results for Temperature and pH Interaction
+### ART Contrast Results for Time
 
 ![ART Contrast Results for Temperature and pH Interaction](images/Textile3.png)
 
