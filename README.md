@@ -92,6 +92,7 @@ etc.), to t-test, chi-square testing and parametric and nonparametric method
 (Expected Graduation: 2026)  
 **B.S. in Applied Mathematics**, Cal Poly Pomona  
 (Graduated: 2024)
+
 ---
 
 ## 📫 Contact
