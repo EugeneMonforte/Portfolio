@@ -108,6 +108,21 @@ etc.), to t-test, chi-square testing and parametric and nonparametric method
 - Methods: Logistic Regression, Wald Test, Odds Ratio and Confidence Intervals for Odds Ratio  
 - [View Report (PDF)](https://eugenemonforte.github.io/Portfolio/4700_Weather%20(4).pdf)
 
+### Boxplots between Variables and Rain
+
+![Boxplots between Variables and Rain](images/Weather1.png)
+
+### Stacked Boxplot of Rain
+
+![Stacked Boxplot of Rain](images/Weather2.png)
+
+### Odds Ratio with Confidence Intervals
+
+![Odds Ratio with Confidence Intervals](images/Weather3.png)
+
+### Best Fitting Model
+
+![Best Fitting Model](images/Weather4.png)
 
 ---
 
