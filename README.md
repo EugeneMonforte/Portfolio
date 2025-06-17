@@ -99,6 +99,10 @@ etc.), to t-test, chi-square testing and parametric and nonparametric method
 - Methods: Chi Squared Test, Goodness of Fit Test, the Chi Squared Test of Independence and Z-Tests
 -  [View Report (PDF)](https://github.com/EugeneMonforte/Portfolio/blob/main/SurveyData.pdf)
 
+### Testing for Correlation between 2-questions
+
+![Testing for Correlation between 2-questions](images/SurveyData.png)
+
 ### 📂 Weather Forecast Dataset
 - Exploring what weather factors have the biggest impact on the outcome of rain  
 - Methods: Logistic Regression, Wald Test, Odds Ratio and Confidence Intervals for Odds Ratio  
