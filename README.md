@@ -135,6 +135,6 @@ etc.), to t-test, chi-square testing and parametric and nonparametric method
 ---
 
 ## 📫 Contact
-- [LinkedIn](www.linkedin.com/in/eugene-monforte)
+- [LinkedIn](https://www.linkedin.com/in/eugene-monforte)
 - Email: emeugeneflash@gmail.com
 
